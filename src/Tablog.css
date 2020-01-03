@@ -1,0 +1,7 @@
+.boxCenter{
+	background-color: gray;
+	align-self: center;
+	transform: translate(0%, 90%);
+	position: static;
+    border: 3px solid #543535;
+}
